@@ -1,0 +1,14 @@
+* { margin: 0; padding: 0;}
+#dh { background: #fff;border: none;}
+#name .nav li a {background: none;}
+#name .nav li a:hover{color: #aa81f3}
+.jumbotron {padding-top: 150px}
+.jumbotron h2 {text-align: center}
+.jumbotron p {color: #97a0af;font-size: 16px;text-align: center;margin: 30px auto 40px auto}
+.jumbotron a {background: #aa81f3 !important; border: 1px solid #aa81f3 !important;}
+.box {width: 1130px; height: 565px; margin: 0 auto;padding-top: 100px;}
+.box p {margin: 20px 0}
+.box .box-1 {width: 50px;border: 1px solid #aa81f3;margin-top: 30px}
+.box .box-2 { margin-top: 50px; padding-top: 45px;background: url("../images/gongju.png") no-repeat 15px 0}
+.box .box-3 { margin-top: 50px; padding-top: 45px;background: url("../images/wendang.png") no-repeat 15px 0}
+.box .box-4 { margin-top: 50px; padding-top: 45px;background: url("../images/bao.png") no-repeat 15px 0}
